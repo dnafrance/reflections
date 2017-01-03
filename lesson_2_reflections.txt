@@ -14,3 +14,5 @@ ensure you can commit per logical change.
 history organized? How would branches help?
 Branches would help in testing out experimental features or changes unconnected
 with main branch.
+- How do the diagrams help you visualize the branch structure?
+Helps to understand the flow/evolution of branches and reachability of commits.
