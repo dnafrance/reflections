@@ -16,3 +16,7 @@ Branches would help in testing out experimental features or changes unconnected
 with main branch.
 - How do the diagrams help you visualize the branch structure?
 Helps to understand the flow/evolution of branches and reachability of commits.
+- What is the result of merging two branches together? Why do we represent it
+in the diagram the way we do?
+All the commits from the branches are made available in the merged version.
+The diagram shows the sequence of the commits.
